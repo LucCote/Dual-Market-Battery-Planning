@@ -1,0 +1,1288 @@
+﻿country_or_region;date;variable;generation_twh
+Germany;2015-01-01;Bioenergy;3.78
+Germany;2015-01-01;Clean;24.11
+Germany;2015-01-01;Coal;22.61
+Germany;2015-01-01;Fossil;29.72
+Germany;2015-01-01;Gas;5.36
+Germany;2015-01-01;Hydro;1.39
+Germany;2015-01-01;Nuclear;8.74
+Germany;2015-01-01;Other Fossil;1.75
+Germany;2015-01-01;Solar;0.6
+Germany;2015-01-01;Wind;9.6
+Germany;2015-01-01;Wind and solar;10.2
+Germany;2015-02-01;Bioenergy;3.42
+Germany;2015-02-01;Clean;19.28
+Germany;2015-02-01;Coal;23.57
+Germany;2015-02-01;Fossil;31.35
+Germany;2015-02-01;Gas;6.16
+Germany;2015-02-01;Hydro;1.05
+Germany;2015-02-01;Nuclear;7.95
+Germany;2015-02-01;Other Fossil;1.62
+Germany;2015-02-01;Solar;1.47
+Germany;2015-02-01;Wind;5.39
+Germany;2015-02-01;Wind and solar;6.86
+Germany;2015-03-01;Bioenergy;3.79
+Germany;2015-03-01;Clean;23.21
+Germany;2015-03-01;Coal;23.03
+Germany;2015-03-01;Fossil;29.73
+Germany;2015-03-01;Gas;5.19
+Germany;2015-03-01;Hydro;1.26
+Germany;2015-03-01;Nuclear;7.69
+Germany;2015-03-01;Other Fossil;1.51
+Germany;2015-03-01;Solar;3.06
+Germany;2015-03-01;Wind;7.41
+Germany;2015-03-01;Wind and solar;10.47
+Germany;2015-04-01;Bioenergy;3.7
+Germany;2015-04-01;Clean;22.69
+Germany;2015-04-01;Coal;19.36
+Germany;2015-04-01;Fossil;23.85
+Germany;2015-04-01;Gas;3.24
+Germany;2015-04-01;Hydro;1.56
+Germany;2015-04-01;Nuclear;7.25
+Germany;2015-04-01;Other Fossil;1.25
+Germany;2015-04-01;Solar;4.75
+Germany;2015-04-01;Wind;5.43
+Germany;2015-04-01;Wind and solar;10.18
+Germany;2015-05-01;Bioenergy;3.83
+Germany;2015-05-01;Clean;23.52
+Germany;2015-05-01;Coal;15.48
+Germany;2015-05-01;Fossil;19.96
+Germany;2015-05-01;Gas;3.3
+Germany;2015-05-01;Hydro;2.12
+Germany;2015-05-01;Nuclear;7.43
+Germany;2015-05-01;Other Fossil;1.18
+Germany;2015-05-01;Solar;4.72
+Germany;2015-05-01;Wind;5.42
+Germany;2015-05-01;Wind and solar;10.14
+Germany;2015-06-01;Bioenergy;3.72
+Germany;2015-06-01;Clean;21.65
+Germany;2015-06-01;Coal;17.93
+Germany;2015-06-01;Fossil;22.24
+Germany;2015-06-01;Gas;3
+Germany;2015-06-01;Hydro;2.08
+Germany;2015-06-01;Nuclear;6.72
+Germany;2015-06-01;Other Fossil;1.31
+Germany;2015-06-01;Solar;4.87
+Germany;2015-06-01;Wind;4.26
+Germany;2015-06-01;Wind and solar;9.13
+Germany;2015-07-01;Bioenergy;3.86
+Germany;2015-07-01;Clean;22.23
+Germany;2015-07-01;Coal;19.67
+Germany;2015-07-01;Fossil;25.35
+Germany;2015-07-01;Gas;4.33
+Germany;2015-07-01;Hydro;1.96
+Germany;2015-07-01;Nuclear;5.12
+Germany;2015-07-01;Other Fossil;1.35
+Germany;2015-07-01;Solar;5.26
+Germany;2015-07-01;Wind;6.03
+Germany;2015-07-01;Wind and solar;11.29
+Germany;2015-08-01;Bioenergy;3.86
+Germany;2015-08-01;Clean;21.53
+Germany;2015-08-01;Coal;19.14
+Germany;2015-08-01;Fossil;24.1
+Germany;2015-08-01;Gas;3.26
+Germany;2015-08-01;Hydro;1.68
+Germany;2015-08-01;Nuclear;7.09
+Germany;2015-08-01;Other Fossil;1.7
+Germany;2015-08-01;Solar;4.94
+Germany;2015-08-01;Wind;3.96
+Germany;2015-08-01;Wind and solar;8.9
+Germany;2015-09-01;Bioenergy;3.74
+Germany;2015-09-01;Clean;21.47
+Germany;2015-09-01;Coal;21.87
+Germany;2015-09-01;Fossil;27.09
+Germany;2015-09-01;Gas;3.36
+Germany;2015-09-01;Hydro;1.39
+Germany;2015-09-01;Nuclear;7.32
+Germany;2015-09-01;Other Fossil;1.86
+Germany;2015-09-01;Solar;3.45
+Germany;2015-09-01;Wind;5.57
+Germany;2015-09-01;Wind and solar;9.02
+Germany;2015-10-01;Bioenergy;3.87
+Germany;2015-10-01;Clean;18.24
+Germany;2015-10-01;Coal;25.82
+Germany;2015-10-01;Fossil;34.38
+Germany;2015-10-01;Gas;6.71
+Germany;2015-10-01;Hydro;1.54
+Germany;2015-10-01;Nuclear;6.73
+Germany;2015-10-01;Other Fossil;1.85
+Germany;2015-10-01;Solar;2.08
+Germany;2015-10-01;Wind;4.02
+Germany;2015-10-01;Wind and solar;6.1
+Germany;2015-11-01;Bioenergy;3.75
+Germany;2015-11-01;Clean;24.33
+Germany;2015-11-01;Coal;21.45
+Germany;2015-11-01;Fossil;31.19
+Germany;2015-11-01;Gas;7.26
+Germany;2015-11-01;Hydro;1.33
+Germany;2015-11-01;Nuclear;7.45
+Germany;2015-11-01;Other Fossil;2.48
+Germany;2015-11-01;Solar;1.22
+Germany;2015-11-01;Wind;10.58
+Germany;2015-11-01;Wind and solar;11.8
+Germany;2015-12-01;Bioenergy;3.88
+Germany;2015-12-01;Clean;25.31
+Germany;2015-12-01;Coal;20.47
+Germany;2015-12-01;Fossil;30.02
+Germany;2015-12-01;Gas;6.91
+Germany;2015-12-01;Hydro;1.26
+Germany;2015-12-01;Nuclear;7.71
+Germany;2015-12-01;Other Fossil;2.64
+Germany;2015-12-01;Solar;0.91
+Germany;2015-12-01;Wind;11.55
+Germany;2015-12-01;Wind and solar;12.46
+Germany;2016-01-01;Bioenergy;3.88
+Germany;2016-01-01;Clean;23.21
+Germany;2016-01-01;Coal;23.34
+Germany;2016-01-01;Fossil;33.23
+Germany;2016-01-01;Gas;7.98
+Germany;2016-01-01;Hydro;1.17
+Germany;2016-01-01;Nuclear;7.83
+Germany;2016-01-01;Other Fossil;1.91
+Germany;2016-01-01;Solar;0.7
+Germany;2016-01-01;Wind;9.63
+Germany;2016-01-01;Wind and solar;10.33
+Germany;2016-02-01;Bioenergy;3.63
+Germany;2016-02-01;Clean;23.97
+Germany;2016-02-01;Coal;20.16
+Germany;2016-02-01;Fossil;27.48
+Germany;2016-02-01;Gas;5.47
+Germany;2016-02-01;Hydro;1.53
+Germany;2016-02-01;Nuclear;7.23
+Germany;2016-02-01;Other Fossil;1.85
+Germany;2016-02-01;Solar;1.34
+Germany;2016-02-01;Wind;10.24
+Germany;2016-02-01;Wind and solar;11.58
+Germany;2016-03-01;Bioenergy;3.87
+Germany;2016-03-01;Clean;21.73
+Germany;2016-03-01;Coal;22.29
+Germany;2016-03-01;Fossil;28.88
+Germany;2016-03-01;Gas;4.89
+Germany;2016-03-01;Hydro;1.37
+Germany;2016-03-01;Nuclear;7.69
+Germany;2016-03-01;Other Fossil;1.7
+Germany;2016-03-01;Solar;2.57
+Germany;2016-03-01;Wind;6.23
+Germany;2016-03-01;Wind and solar;8.8
+Germany;2016-04-01;Bioenergy;3.76
+Germany;2016-04-01;Clean;21.05
+Germany;2016-04-01;Coal;19.84
+Germany;2016-04-01;Fossil;24.89
+Germany;2016-04-01;Gas;3.67
+Germany;2016-04-01;Hydro;1.77
+Germany;2016-04-01;Nuclear;5.4
+Germany;2016-04-01;Other Fossil;1.38
+Germany;2016-04-01;Solar;4
+Germany;2016-04-01;Wind;6.12
+Germany;2016-04-01;Wind and solar;10.12
+Germany;2016-05-01;Bioenergy;3.89
+Germany;2016-05-01;Clean;22.02
+Germany;2016-05-01;Coal;17.24
+Germany;2016-05-01;Fossil;22.7
+Germany;2016-05-01;Gas;3.86
+Germany;2016-05-01;Hydro;2.19
+Germany;2016-05-01;Nuclear;4.55
+Germany;2016-05-01;Other Fossil;1.6
+Germany;2016-05-01;Solar;5.03
+Germany;2016-05-01;Wind;6.36
+Germany;2016-05-01;Wind and solar;11.39
+Germany;2016-06-01;Bioenergy;3.77
+Germany;2016-06-01;Clean;20.48
+Germany;2016-06-01;Coal;17.63
+Germany;2016-06-01;Fossil;22.69
+Germany;2016-06-01;Gas;3.63
+Germany;2016-06-01;Hydro;2.19
+Germany;2016-06-01;Nuclear;5.99
+Germany;2016-06-01;Other Fossil;1.43
+Germany;2016-06-01;Solar;5.05
+Germany;2016-06-01;Wind;3.48
+Germany;2016-06-01;Wind and solar;8.53
+Germany;2016-07-01;Bioenergy;3.9
+Germany;2016-07-01;Clean;22.58
+Germany;2016-07-01;Coal;17.49
+Germany;2016-07-01;Fossil;22.84
+Germany;2016-07-01;Gas;3.74
+Germany;2016-07-01;Hydro;2.41
+Germany;2016-07-01;Nuclear;6.16
+Germany;2016-07-01;Other Fossil;1.61
+Germany;2016-07-01;Solar;5.27
+Germany;2016-07-01;Wind;4.84
+Germany;2016-07-01;Wind and solar;10.11
+Germany;2016-08-01;Bioenergy;3.9
+Germany;2016-08-01;Clean;23.04
+Germany;2016-08-01;Coal;16.83
+Germany;2016-08-01;Fossil;24.34
+Germany;2016-08-01;Gas;5.74
+Germany;2016-08-01;Hydro;2.29
+Germany;2016-08-01;Nuclear;6.88
+Germany;2016-08-01;Other Fossil;1.77
+Germany;2016-08-01;Solar;5.03
+Germany;2016-08-01;Wind;4.94
+Germany;2016-08-01;Wind and solar;9.97
+Germany;2016-09-01;Bioenergy;3.78
+Germany;2016-09-01;Clean;20.87
+Germany;2016-09-01;Coal;19.16
+Germany;2016-09-01;Fossil;28.35
+Germany;2016-09-01;Gas;7.73
+Germany;2016-09-01;Hydro;1.73
+Germany;2016-09-01;Nuclear;6.93
+Germany;2016-09-01;Other Fossil;1.46
+Germany;2016-09-01;Solar;4.1
+Germany;2016-09-01;Wind;4.33
+Germany;2016-09-01;Wind and solar;8.43
+Germany;2016-10-01;Bioenergy;3.91
+Germany;2016-10-01;Clean;20.53
+Germany;2016-10-01;Coal;21.76
+Germany;2016-10-01;Fossil;32.27
+Germany;2016-10-01;Gas;8.89
+Germany;2016-10-01;Hydro;1.23
+Germany;2016-10-01;Nuclear;7.83
+Germany;2016-10-01;Other Fossil;1.62
+Germany;2016-10-01;Solar;1.79
+Germany;2016-10-01;Wind;5.77
+Germany;2016-10-01;Wind and solar;7.56
+Germany;2016-11-01;Bioenergy;3.78
+Germany;2016-11-01;Clean;21.85
+Germany;2016-11-01;Coal;22.56
+Germany;2016-11-01;Fossil;32.94
+Germany;2016-11-01;Gas;8.53
+Germany;2016-11-01;Hydro;1.06
+Germany;2016-11-01;Nuclear;7.42
+Germany;2016-11-01;Other Fossil;1.85
+Germany;2016-11-01;Solar;1.09
+Germany;2016-11-01;Wind;8.5
+Germany;2016-11-01;Wind and solar;9.59
+Germany;2016-12-01;Bioenergy;3.91
+Germany;2016-12-01;Clean;21.86
+Germany;2016-12-01;Coal;22.44
+Germany;2016-12-01;Fossil;34.71
+Germany;2016-12-01;Gas;10.2
+Germany;2016-12-01;Hydro;1.15
+Germany;2016-12-01;Nuclear;6.31
+Germany;2016-12-01;Other Fossil;2.07
+Germany;2016-12-01;Solar;0.84
+Germany;2016-12-01;Wind;9.65
+Germany;2016-12-01;Wind and solar;10.49
+Germany;2017-01-01;Bioenergy;3.96
+Germany;2017-01-01;Clean;19.56
+Germany;2017-01-01;Coal;25.52
+Germany;2017-01-01;Fossil;39.15
+Germany;2017-01-01;Gas;11.56
+Germany;2017-01-01;Hydro;0.86
+Germany;2017-01-01;Nuclear;5.72
+Germany;2017-01-01;Other Fossil;2.07
+Germany;2017-01-01;Solar;0.85
+Germany;2017-01-01;Wind;8.17
+Germany;2017-01-01;Wind and solar;9.02
+Germany;2017-02-01;Bioenergy;3.7
+Germany;2017-02-01;Clean;21.06
+Germany;2017-02-01;Coal;20.41
+Germany;2017-02-01;Fossil;30.15
+Germany;2017-02-01;Gas;7.83
+Germany;2017-02-01;Hydro;0.97
+Germany;2017-02-01;Nuclear;4.56
+Germany;2017-02-01;Other Fossil;1.91
+Germany;2017-02-01;Solar;1.57
+Germany;2017-02-01;Wind;10.26
+Germany;2017-02-01;Wind and solar;11.83
+Germany;2017-03-01;Bioenergy;4.01
+Germany;2017-03-01;Clean;23.48
+Germany;2017-03-01;Coal;19.93
+Germany;2017-03-01;Fossil;28.74
+Germany;2017-03-01;Gas;6.8
+Germany;2017-03-01;Hydro;1.52
+Germany;2017-03-01;Nuclear;4.85
+Germany;2017-03-01;Other Fossil;2.01
+Germany;2017-03-01;Solar;3.42
+Germany;2017-03-01;Wind;9.68
+Germany;2017-03-01;Wind and solar;13.1
+Germany;2017-04-01;Bioenergy;3.87
+Germany;2017-04-01;Clean;22.32
+Germany;2017-04-01;Coal;17.97
+Germany;2017-04-01;Fossil;25.38
+Germany;2017-04-01;Gas;5.55
+Germany;2017-04-01;Hydro;1.31
+Germany;2017-04-01;Nuclear;4.77
+Germany;2017-04-01;Other Fossil;1.86
+Germany;2017-04-01;Solar;4.08
+Germany;2017-04-01;Wind;8.29
+Germany;2017-04-01;Wind and solar;12.37
+Germany;2017-05-01;Bioenergy;3.91
+Germany;2017-05-01;Clean;23.04
+Germany;2017-05-01;Coal;17.86
+Germany;2017-05-01;Fossil;25.09
+Germany;2017-05-01;Gas;5.5
+Germany;2017-05-01;Hydro;2.1
+Germany;2017-05-01;Nuclear;5.67
+Germany;2017-05-01;Other Fossil;1.73
+Germany;2017-05-01;Solar;5.42
+Germany;2017-05-01;Wind;5.94
+Germany;2017-05-01;Wind and solar;11.36
+Germany;2017-06-01;Bioenergy;3.71
+Germany;2017-06-01;Clean;25.25
+Germany;2017-06-01;Coal;15.04
+Germany;2017-06-01;Fossil;21.86
+Germany;2017-06-01;Gas;5.14
+Germany;2017-06-01;Hydro;2.08
+Germany;2017-06-01;Nuclear;6.38
+Germany;2017-06-01;Other Fossil;1.68
+Germany;2017-06-01;Solar;5.68
+Germany;2017-06-01;Wind;7.4
+Germany;2017-06-01;Wind and solar;13.08
+Germany;2017-07-01;Bioenergy;3.76
+Germany;2017-07-01;Clean;22.1
+Germany;2017-07-01;Coal;15.8
+Germany;2017-07-01;Fossil;24.19
+Germany;2017-07-01;Gas;6.75
+Germany;2017-07-01;Hydro;2.05
+Germany;2017-07-01;Nuclear;5.38
+Germany;2017-07-01;Other Fossil;1.64
+Germany;2017-07-01;Solar;5.17
+Germany;2017-07-01;Wind;5.74
+Germany;2017-07-01;Wind and solar;10.91
+Germany;2017-08-01;Bioenergy;3.76
+Germany;2017-08-01;Clean;23.52
+Germany;2017-08-01;Coal;16.25
+Germany;2017-08-01;Fossil;21.6
+Germany;2017-08-01;Gas;3.89
+Germany;2017-08-01;Hydro;2.12
+Germany;2017-08-01;Nuclear;7.13
+Germany;2017-08-01;Other Fossil;1.46
+Germany;2017-08-01;Solar;4.87
+Germany;2017-08-01;Wind;5.64
+Germany;2017-08-01;Wind and solar;10.51
+Germany;2017-09-01;Bioenergy;3.76
+Germany;2017-09-01;Clean;22.03
+Germany;2017-09-01;Coal;17.77
+Germany;2017-09-01;Fossil;24.12
+Germany;2017-09-01;Gas;5.08
+Germany;2017-09-01;Hydro;2.07
+Germany;2017-09-01;Nuclear;6.42
+Germany;2017-09-01;Other Fossil;1.27
+Germany;2017-09-01;Solar;3.26
+Germany;2017-09-01;Wind;6.52
+Germany;2017-09-01;Wind and solar;9.78
+Germany;2017-10-01;Bioenergy;3.94
+Germany;2017-10-01;Clean;28.2
+Germany;2017-10-01;Coal;16.33
+Germany;2017-10-01;Fossil;23.6
+Germany;2017-10-01;Gas;5.85
+Germany;2017-10-01;Hydro;1.63
+Germany;2017-10-01;Nuclear;7.4
+Germany;2017-10-01;Other Fossil;1.42
+Germany;2017-10-01;Solar;2.26
+Germany;2017-10-01;Wind;12.97
+Germany;2017-10-01;Wind and solar;15.23
+Germany;2017-11-01;Bioenergy;3.92
+Germany;2017-11-01;Clean;23.98
+Germany;2017-11-01;Coal;20.09
+Germany;2017-11-01;Fossil;29.93
+Germany;2017-11-01;Gas;8.38
+Germany;2017-11-01;Hydro;1.55
+Germany;2017-11-01;Nuclear;6.94
+Germany;2017-11-01;Other Fossil;1.46
+Germany;2017-11-01;Solar;0.88
+Germany;2017-11-01;Wind;10.69
+Germany;2017-11-01;Wind and solar;11.57
+Germany;2017-12-01;Bioenergy;4.07
+Germany;2017-12-01;Clean;28.67
+Germany;2017-12-01;Coal;17.94
+Germany;2017-12-01;Fossil;26.52
+Germany;2017-12-01;Gas;7.04
+Germany;2017-12-01;Hydro;1.52
+Germany;2017-12-01;Nuclear;7.29
+Germany;2017-12-01;Other Fossil;1.54
+Germany;2017-12-01;Solar;0.52
+Germany;2017-12-01;Wind;15.27
+Germany;2017-12-01;Wind and solar;15.79
+Germany;2018-01-01;Bioenergy;4
+Germany;2018-01-01;Clean;28.17
+Germany;2018-01-01;Coal;17.47
+Germany;2018-01-01;Fossil;26.2
+Germany;2018-01-01;Gas;7.06
+Germany;2018-01-01;Hydro;1.81
+Germany;2018-01-01;Nuclear;6.72
+Germany;2018-01-01;Other Fossil;1.67
+Germany;2018-01-01;Solar;0.77
+Germany;2018-01-01;Wind;14.87
+Germany;2018-01-01;Wind and solar;15.64
+Germany;2018-02-01;Bioenergy;3.77
+Germany;2018-02-01;Clean;21.48
+Germany;2018-02-01;Coal;20.35
+Germany;2018-02-01;Fossil;30.83
+Germany;2018-02-01;Gas;8.86
+Germany;2018-02-01;Hydro;1.5
+Germany;2018-02-01;Nuclear;6.12
+Germany;2018-02-01;Other Fossil;1.62
+Germany;2018-02-01;Solar;1.93
+Germany;2018-02-01;Wind;8.16
+Germany;2018-02-01;Wind and solar;10.09
+Germany;2018-03-01;Bioenergy;4.02
+Germany;2018-03-01;Clean;25.53
+Germany;2018-03-01;Coal;20.27
+Germany;2018-03-01;Fossil;29.15
+Germany;2018-03-01;Gas;7.22
+Germany;2018-03-01;Hydro;1.49
+Germany;2018-03-01;Nuclear;6.19
+Germany;2018-03-01;Other Fossil;1.66
+Germany;2018-03-01;Solar;2.85
+Germany;2018-03-01;Wind;10.98
+Germany;2018-03-01;Wind and solar;13.83
+Germany;2018-04-01;Bioenergy;3.81
+Germany;2018-04-01;Clean;24.94
+Germany;2018-04-01;Coal;15.64
+Germany;2018-04-01;Fossil;21.09
+Germany;2018-04-01;Gas;3.88
+Germany;2018-04-01;Hydro;1.69
+Germany;2018-04-01;Nuclear;5.21
+Germany;2018-04-01;Other Fossil;1.57
+Germany;2018-04-01;Solar;5.1
+Germany;2018-04-01;Wind;9.13
+Germany;2018-04-01;Wind and solar;14.23
+Germany;2018-05-01;Bioenergy;3.97
+Germany;2018-05-01;Clean;24.22
+Germany;2018-05-01;Coal;14.92
+Germany;2018-05-01;Fossil;20.22
+Germany;2018-05-01;Gas;3.66
+Germany;2018-05-01;Hydro;1.67
+Germany;2018-05-01;Nuclear;4.9
+Germany;2018-05-01;Other Fossil;1.64
+Germany;2018-05-01;Solar;6.25
+Germany;2018-05-01;Wind;7.43
+Germany;2018-05-01;Wind and solar;13.68
+Germany;2018-06-01;Bioenergy;3.73
+Germany;2018-06-01;Clean;22.51
+Germany;2018-06-01;Coal;16.17
+Germany;2018-06-01;Fossil;22.21
+Germany;2018-06-01;Gas;4.39
+Germany;2018-06-01;Hydro;1.47
+Germany;2018-06-01;Nuclear;5.8
+Germany;2018-06-01;Other Fossil;1.65
+Germany;2018-06-01;Solar;5.62
+Germany;2018-06-01;Wind;5.89
+Germany;2018-06-01;Wind and solar;11.51
+Germany;2018-07-01;Bioenergy;3.83
+Germany;2018-07-01;Clean;22.48
+Germany;2018-07-01;Coal;18.36
+Germany;2018-07-01;Fossil;25.98
+Germany;2018-07-01;Gas;5.86
+Germany;2018-07-01;Hydro;1.32
+Germany;2018-07-01;Nuclear;6.25
+Germany;2018-07-01;Other Fossil;1.76
+Germany;2018-07-01;Solar;6.5
+Germany;2018-07-01;Wind;4.58
+Germany;2018-07-01;Wind and solar;11.08
+Germany;2018-08-01;Bioenergy;3.85
+Germany;2018-08-01;Clean;23.31
+Germany;2018-08-01;Coal;17.52
+Germany;2018-08-01;Fossil;24.75
+Germany;2018-08-01;Gas;5.47
+Germany;2018-08-01;Hydro;1.05
+Germany;2018-08-01;Nuclear;6.65
+Germany;2018-08-01;Other Fossil;1.76
+Germany;2018-08-01;Solar;5.46
+Germany;2018-08-01;Wind;6.3
+Germany;2018-08-01;Wind and solar;11.76
+Germany;2018-09-01;Bioenergy;3.72
+Germany;2018-09-01;Clean;22.92
+Germany;2018-09-01;Coal;16.99
+Germany;2018-09-01;Fossil;23.65
+Germany;2018-09-01;Gas;5.06
+Germany;2018-09-01;Hydro;1.1
+Germany;2018-09-01;Nuclear;5.62
+Germany;2018-09-01;Other Fossil;1.6
+Germany;2018-09-01;Solar;4.29
+Germany;2018-09-01;Wind;8.19
+Germany;2018-09-01;Wind and solar;12.48
+Germany;2018-10-01;Bioenergy;3.98
+Germany;2018-10-01;Clean;24.59
+Germany;2018-10-01;Coal;18.06
+Germany;2018-10-01;Fossil;26.43
+Germany;2018-10-01;Gas;6.67
+Germany;2018-10-01;Hydro;0.92
+Germany;2018-10-01;Nuclear;5.77
+Germany;2018-10-01;Other Fossil;1.7
+Germany;2018-10-01;Solar;2.9
+Germany;2018-10-01;Wind;11.02
+Germany;2018-10-01;Wind and solar;13.92
+Germany;2018-11-01;Bioenergy;3.9
+Germany;2018-11-01;Clean;22.61
+Germany;2018-11-01;Coal;19.05
+Germany;2018-11-01;Fossil;29.52
+Germany;2018-11-01;Gas;8.8
+Germany;2018-11-01;Hydro;0.8
+Germany;2018-11-01;Nuclear;6.47
+Germany;2018-11-01;Other Fossil;1.67
+Germany;2018-11-01;Solar;1.23
+Germany;2018-11-01;Wind;10.21
+Germany;2018-11-01;Wind and solar;11.44
+Germany;2018-12-01;Bioenergy;4.14
+Germany;2018-12-01;Clean;27.8
+Germany;2018-12-01;Coal;15.43
+Germany;2018-12-01;Fossil;25.1
+Germany;2018-12-01;Gas;8.05
+Germany;2018-12-01;Hydro;1.49
+Germany;2018-12-01;Nuclear;6.8
+Germany;2018-12-01;Other Fossil;1.62
+Germany;2018-12-01;Solar;0.55
+Germany;2018-12-01;Wind;14.82
+Germany;2018-12-01;Wind and solar;15.37
+Germany;2019-01-01;Bioenergy;3.73
+Germany;2019-01-01;Clean;27.61
+Germany;2019-01-01;Coal;18.21
+Germany;2019-01-01;Fossil;29.35
+Germany;2019-01-01;Gas;8.93
+Germany;2019-01-01;Hydro;1.63
+Germany;2019-01-01;Nuclear;6.81
+Germany;2019-01-01;Other Fossil;2.21
+Germany;2019-01-01;Solar;0.79
+Germany;2019-01-01;Wind;14.65
+Germany;2019-01-01;Wind and solar;15.44
+Germany;2019-02-01;Bioenergy;3.38
+Germany;2019-02-01;Clean;24.1
+Germany;2019-02-01;Coal;16.11
+Germany;2019-02-01;Fossil;25.22
+Germany;2019-02-01;Gas;6.96
+Germany;2019-02-01;Hydro;1.45
+Germany;2019-02-01;Nuclear;6.19
+Germany;2019-02-01;Other Fossil;2.15
+Germany;2019-02-01;Solar;2.32
+Germany;2019-02-01;Wind;10.76
+Germany;2019-02-01;Wind and solar;13.08
+Germany;2019-03-01;Bioenergy;3.66
+Germany;2019-03-01;Clean;31.8
+Germany;2019-03-01;Coal;12.12
+Germany;2019-03-01;Fossil;20.07
+Germany;2019-03-01;Gas;5.68
+Germany;2019-03-01;Hydro;2.07
+Germany;2019-03-01;Nuclear;6.7
+Germany;2019-03-01;Other Fossil;2.27
+Germany;2019-03-01;Solar;3.23
+Germany;2019-03-01;Wind;16.14
+Germany;2019-03-01;Wind and solar;19.37
+Germany;2019-04-01;Bioenergy;3.45
+Germany;2019-04-01;Clean;25.23
+Germany;2019-04-01;Coal;13.24
+Germany;2019-04-01;Fossil;21.09
+Germany;2019-04-01;Gas;5.67
+Germany;2019-04-01;Hydro;1.71
+Germany;2019-04-01;Nuclear;5.69
+Germany;2019-04-01;Other Fossil;2.18
+Germany;2019-04-01;Solar;5.41
+Germany;2019-04-01;Wind;8.97
+Germany;2019-04-01;Wind and solar;14.38
+Germany;2019-05-01;Bioenergy;3.56
+Germany;2019-05-01;Clean;23.6
+Germany;2019-05-01;Coal;12.75
+Germany;2019-05-01;Fossil;20.25
+Germany;2019-05-01;Gas;5.24
+Germany;2019-05-01;Hydro;1.91
+Germany;2019-05-01;Nuclear;4.62
+Germany;2019-05-01;Other Fossil;2.26
+Germany;2019-05-01;Solar;5.31
+Germany;2019-05-01;Wind;8.2
+Germany;2019-05-01;Wind and solar;13.51
+Germany;2019-06-01;Bioenergy;3.36
+Germany;2019-06-01;Clean;23.2
+Germany;2019-06-01;Coal;10
+Germany;2019-06-01;Fossil;17.62
+Germany;2019-06-01;Gas;5.73
+Germany;2019-06-01;Hydro;1.91
+Germany;2019-06-01;Nuclear;4.57
+Germany;2019-06-01;Other Fossil;1.89
+Germany;2019-06-01;Solar;6.83
+Germany;2019-06-01;Wind;6.53
+Germany;2019-06-01;Wind and solar;13.36
+Germany;2019-07-01;Bioenergy;3.4
+Germany;2019-07-01;Clean;23.11
+Germany;2019-07-01;Coal;11.76
+Germany;2019-07-01;Fossil;21.27
+Germany;2019-07-01;Gas;7.49
+Germany;2019-07-01;Hydro;1.63
+Germany;2019-07-01;Nuclear;5.44
+Germany;2019-07-01;Other Fossil;2.02
+Germany;2019-07-01;Solar;6.07
+Germany;2019-07-01;Wind;6.57
+Germany;2019-07-01;Wind and solar;12.64
+Germany;2019-08-01;Bioenergy;3.37
+Germany;2019-08-01;Clean;21.97
+Germany;2019-08-01;Coal;11.15
+Germany;2019-08-01;Fossil;20.67
+Germany;2019-08-01;Gas;7.41
+Germany;2019-08-01;Hydro;1.73
+Germany;2019-08-01;Nuclear;5.47
+Germany;2019-08-01;Other Fossil;2.11
+Germany;2019-08-01;Solar;5.58
+Germany;2019-08-01;Wind;5.82
+Germany;2019-08-01;Wind and solar;11.4
+Germany;2019-09-01;Bioenergy;3.32
+Germany;2019-09-01;Clean;23.77
+Germany;2019-09-01;Coal;10.64
+Germany;2019-09-01;Fossil;20.37
+Germany;2019-09-01;Gas;7.57
+Germany;2019-09-01;Hydro;1.39
+Germany;2019-09-01;Nuclear;5.78
+Germany;2019-09-01;Other Fossil;2.16
+Germany;2019-09-01;Solar;4.14
+Germany;2019-09-01;Wind;9.14
+Germany;2019-09-01;Wind and solar;13.28
+Germany;2019-10-01;Bioenergy;3.57
+Germany;2019-10-01;Clean;26
+Germany;2019-10-01;Coal;12.53
+Germany;2019-10-01;Fossil;23.98
+Germany;2019-10-01;Gas;9.07
+Germany;2019-10-01;Hydro;1.54
+Germany;2019-10-01;Nuclear;6.74
+Germany;2019-10-01;Other Fossil;2.38
+Germany;2019-10-01;Solar;2.57
+Germany;2019-10-01;Wind;11.58
+Germany;2019-10-01;Wind and solar;14.15
+Germany;2019-11-01;Bioenergy;3.55
+Germany;2019-11-01;Clean;22.61
+Germany;2019-11-01;Coal;16.61
+Germany;2019-11-01;Fossil;27.13
+Germany;2019-11-01;Gas;8.2
+Germany;2019-11-01;Hydro;1.45
+Germany;2019-11-01;Nuclear;6.45
+Germany;2019-11-01;Other Fossil;2.32
+Germany;2019-11-01;Solar;1.11
+Germany;2019-11-01;Wind;10.05
+Germany;2019-11-01;Wind and solar;11.16
+Germany;2019-12-01;Bioenergy;3.68
+Germany;2019-12-01;Clean;27.86
+Germany;2019-12-01;Coal;12.07
+Germany;2019-12-01;Fossil;21.43
+Germany;2019-12-01;Gas;7.04
+Germany;2019-12-01;Hydro;1.52
+Germany;2019-12-01;Nuclear;6.53
+Germany;2019-12-01;Other Fossil;2.32
+Germany;2019-12-01;Solar;0.99
+Germany;2019-12-01;Wind;15.14
+Germany;2019-12-01;Wind and solar;16.13
+Germany;2020-01-01;Bioenergy;3.85
+Germany;2020-01-01;Clean;27.99
+Germany;2020-01-01;Coal;13.26
+Germany;2020-01-01;Fossil;24.69
+Germany;2020-01-01;Gas;9.13
+Germany;2020-01-01;Hydro;1.33
+Germany;2020-01-01;Nuclear;5.8
+Germany;2020-01-01;Other Fossil;2.3
+Germany;2020-01-01;Solar;1.14
+Germany;2020-01-01;Wind;15.87
+Germany;2020-01-01;Wind and solar;17.01
+Germany;2020-02-01;Bioenergy;3.48
+Germany;2020-02-01;Clean;32.41
+Germany;2020-02-01;Coal;8.18
+Germany;2020-02-01;Fossil;17.59
+Germany;2020-02-01;Gas;7.36
+Germany;2020-02-01;Hydro;1.79
+Germany;2020-02-01;Nuclear;5.17
+Germany;2020-02-01;Other Fossil;2.05
+Germany;2020-02-01;Solar;1.76
+Germany;2020-02-01;Wind;20.21
+Germany;2020-02-01;Wind and solar;21.97
+Germany;2020-03-01;Bioenergy;3.73
+Germany;2020-03-01;Clean;29.5
+Germany;2020-03-01;Coal;9.56
+Germany;2020-03-01;Fossil;19.32
+Germany;2020-03-01;Gas;7.56
+Germany;2020-03-01;Hydro;1.87
+Germany;2020-03-01;Nuclear;5.4
+Germany;2020-03-01;Other Fossil;2.2
+Germany;2020-03-01;Solar;4.34
+Germany;2020-03-01;Wind;14.16
+Germany;2020-03-01;Wind and solar;18.5
+Germany;2020-04-01;Bioenergy;3.59
+Germany;2020-04-01;Clean;25.05
+Germany;2020-04-01;Coal;6.09
+Germany;2020-04-01;Fossil;13.58
+Germany;2020-04-01;Gas;5.63
+Germany;2020-04-01;Hydro;1.32
+Germany;2020-04-01;Nuclear;4.73
+Germany;2020-04-01;Other Fossil;1.86
+Germany;2020-04-01;Solar;6.71
+Germany;2020-04-01;Wind;8.7
+Germany;2020-04-01;Wind and solar;15.41
+Germany;2020-05-01;Bioenergy;3.62
+Germany;2020-05-01;Clean;23.65
+Germany;2020-05-01;Coal;6.24
+Germany;2020-05-01;Fossil;14.14
+Germany;2020-05-01;Gas;5.94
+Germany;2020-05-01;Hydro;1.56
+Germany;2020-05-01;Nuclear;4.28
+Germany;2020-05-01;Other Fossil;1.96
+Germany;2020-05-01;Solar;6.6
+Germany;2020-05-01;Wind;7.59
+Germany;2020-05-01;Wind and solar;14.19
+Germany;2020-06-01;Bioenergy;3.32
+Germany;2020-06-01;Clean;22.17
+Germany;2020-06-01;Coal;7.66
+Germany;2020-06-01;Fossil;16.85
+Germany;2020-06-01;Gas;7.38
+Germany;2020-06-01;Hydro;1.75
+Germany;2020-06-01;Nuclear;4.66
+Germany;2020-06-01;Other Fossil;1.81
+Germany;2020-06-01;Solar;6.08
+Germany;2020-06-01;Wind;6.36
+Germany;2020-06-01;Wind and solar;12.44
+Germany;2020-07-01;Bioenergy;3.38
+Germany;2020-07-01;Clean;23
+Germany;2020-07-01;Coal;8.23
+Germany;2020-07-01;Fossil;18.28
+Germany;2020-07-01;Gas;7.99
+Germany;2020-07-01;Hydro;1.74
+Germany;2020-07-01;Nuclear;4.23
+Germany;2020-07-01;Other Fossil;2.06
+Germany;2020-07-01;Solar;6.66
+Germany;2020-07-01;Wind;6.99
+Germany;2020-07-01;Wind and solar;13.65
+Germany;2020-08-01;Bioenergy;3.37
+Germany;2020-08-01;Clean;22.91
+Germany;2020-08-01;Coal;9.97
+Germany;2020-08-01;Fossil;19.21
+Germany;2020-08-01;Gas;7.25
+Germany;2020-08-01;Hydro;1.43
+Germany;2020-08-01;Nuclear;5.59
+Germany;2020-08-01;Other Fossil;1.99
+Germany;2020-08-01;Solar;5.77
+Germany;2020-08-01;Wind;6.75
+Germany;2020-08-01;Wind and solar;12.52
+Germany;2020-09-01;Bioenergy;3.34
+Germany;2020-09-01;Clean;21.29
+Germany;2020-09-01;Coal;12.14
+Germany;2020-09-01;Fossil;21.55
+Germany;2020-09-01;Gas;7.25
+Germany;2020-09-01;Hydro;1.46
+Germany;2020-09-01;Nuclear;5.29
+Germany;2020-09-01;Other Fossil;2.16
+Germany;2020-09-01;Solar;4.89
+Germany;2020-09-01;Wind;6.31
+Germany;2020-09-01;Wind and solar;11.2
+Germany;2020-10-01;Bioenergy;3.63
+Germany;2020-10-01;Clean;26.54
+Germany;2020-10-01;Coal;13.05
+Germany;2020-10-01;Fossil;22.74
+Germany;2020-10-01;Gas;7.45
+Germany;2020-10-01;Hydro;1.65
+Germany;2020-10-01;Nuclear;5.13
+Germany;2020-10-01;Other Fossil;2.24
+Germany;2020-10-01;Solar;2.27
+Germany;2020-10-01;Wind;13.86
+Germany;2020-10-01;Wind and solar;16.13
+Germany;2020-11-01;Bioenergy;3.63
+Germany;2020-11-01;Clean;22.58
+Germany;2020-11-01;Coal;14.81
+Germany;2020-11-01;Fossil;26.31
+Germany;2020-11-01;Gas;9.24
+Germany;2020-11-01;Hydro;1.38
+Germany;2020-11-01;Nuclear;4.79
+Germany;2020-11-01;Other Fossil;2.26
+Germany;2020-11-01;Solar;1.59
+Germany;2020-11-01;Wind;11.19
+Germany;2020-11-01;Wind and solar;12.78
+Germany;2020-12-01;Bioenergy;3.83
+Germany;2020-12-01;Clean;23.28
+Germany;2020-12-01;Coal;14.02
+Germany;2020-12-01;Fossil;25.78
+Germany;2020-12-01;Gas;9.53
+Germany;2020-12-01;Hydro;1.28
+Germany;2020-12-01;Nuclear;5.84
+Germany;2020-12-01;Other Fossil;2.23
+Germany;2020-12-01;Solar;0.71
+Germany;2020-12-01;Wind;11.62
+Germany;2020-12-01;Wind and solar;12.33
+Germany;2021-01-01;Bioenergy;3.74
+Germany;2021-01-01;Clean;23.02
+Germany;2021-01-01;Coal;15.98
+Germany;2021-01-01;Fossil;27.76
+Germany;2021-01-01;Gas;9.61
+Germany;2021-01-01;Hydro;1.34
+Germany;2021-01-01;Nuclear;5.93
+Germany;2021-01-01;Other Fossil;2.17
+Germany;2021-01-01;Solar;0.65
+Germany;2021-01-01;Wind;11.36
+Germany;2021-01-01;Wind and solar;12.01
+Germany;2021-02-01;Bioenergy;3.39
+Germany;2021-02-01;Clean;23.65
+Germany;2021-02-01;Coal;11.59
+Germany;2021-02-01;Fossil;22.45
+Germany;2021-02-01;Gas;8.83
+Germany;2021-02-01;Hydro;1.65
+Germany;2021-02-01;Nuclear;5.39
+Germany;2021-02-01;Other Fossil;2.03
+Germany;2021-02-01;Solar;2.11
+Germany;2021-02-01;Wind;11.11
+Germany;2021-02-01;Wind and solar;13.22
+Germany;2021-03-01;Bioenergy;3.63
+Germany;2021-03-01;Clean;26.43
+Germany;2021-03-01;Coal;11.71
+Germany;2021-03-01;Fossil;23.38
+Germany;2021-03-01;Gas;9.32
+Germany;2021-03-01;Hydro;1.54
+Germany;2021-03-01;Nuclear;5.5
+Germany;2021-03-01;Other Fossil;2.35
+Germany;2021-03-01;Solar;4.4
+Germany;2021-03-01;Wind;11.36
+Germany;2021-03-01;Wind and solar;15.76
+Germany;2021-04-01;Bioenergy;3.48
+Germany;2021-04-01;Clean;25.16
+Germany;2021-04-01;Coal;10.61
+Germany;2021-04-01;Fossil;20.78
+Germany;2021-04-01;Gas;8.06
+Germany;2021-04-01;Hydro;1.34
+Germany;2021-04-01;Nuclear;5.12
+Germany;2021-04-01;Other Fossil;2.11
+Germany;2021-04-01;Solar;5.83
+Germany;2021-04-01;Wind;9.39
+Germany;2021-04-01;Wind and solar;15.22
+Germany;2021-05-01;Bioenergy;3.51
+Germany;2021-05-01;Clean;26.98
+Germany;2021-05-01;Coal;7.98
+Germany;2021-05-01;Fossil;15.92
+Germany;2021-05-01;Gas;5.82
+Germany;2021-05-01;Hydro;2
+Germany;2021-05-01;Nuclear;5.23
+Germany;2021-05-01;Other Fossil;2.12
+Germany;2021-05-01;Solar;6.28
+Germany;2021-05-01;Wind;9.96
+Germany;2021-05-01;Wind and solar;16.24
+Germany;2021-06-01;Bioenergy;3.22
+Germany;2021-06-01;Clean;22.07
+Germany;2021-06-01;Coal;10.89
+Germany;2021-06-01;Fossil;19.38
+Germany;2021-06-01;Gas;6.41
+Germany;2021-06-01;Hydro;2
+Germany;2021-06-01;Nuclear;4.93
+Germany;2021-06-01;Other Fossil;2.08
+Germany;2021-06-01;Solar;7.56
+Germany;2021-06-01;Wind;4.36
+Germany;2021-06-01;Wind and solar;11.92
+Germany;2021-07-01;Bioenergy;3.27
+Germany;2021-07-01;Clean;23.39
+Germany;2021-07-01;Coal;10.49
+Germany;2021-07-01;Fossil;18.43
+Germany;2021-07-01;Gas;5.82
+Germany;2021-07-01;Hydro;2.12
+Germany;2021-07-01;Nuclear;5.52
+Germany;2021-07-01;Other Fossil;2.12
+Germany;2021-07-01;Solar;6.62
+Germany;2021-07-01;Wind;5.86
+Germany;2021-07-01;Wind and solar;12.48
+Germany;2021-08-01;Bioenergy;3.26
+Germany;2021-08-01;Clean;24.78
+Germany;2021-08-01;Coal;10.67
+Germany;2021-08-01;Fossil;17.31
+Germany;2021-08-01;Gas;4.56
+Germany;2021-08-01;Hydro;2.11
+Germany;2021-08-01;Nuclear;5.77
+Germany;2021-08-01;Other Fossil;2.08
+Germany;2021-08-01;Solar;5.62
+Germany;2021-08-01;Wind;8.02
+Germany;2021-08-01;Wind and solar;13.64
+Germany;2021-09-01;Bioenergy;3.22
+Germany;2021-09-01;Clean;21.08
+Germany;2021-09-01;Coal;15.08
+Germany;2021-09-01;Fossil;23.01
+Germany;2021-09-01;Gas;5.92
+Germany;2021-09-01;Hydro;1.59
+Germany;2021-09-01;Nuclear;5.46
+Germany;2021-09-01;Other Fossil;2.01
+Germany;2021-09-01;Solar;5.09
+Germany;2021-09-01;Wind;5.72
+Germany;2021-09-01;Wind and solar;10.81
+Germany;2021-10-01;Bioenergy;3.51
+Germany;2021-10-01;Clean;26.46
+Germany;2021-10-01;Coal;13.98
+Germany;2021-10-01;Fossil;21.91
+Germany;2021-10-01;Gas;5.82
+Germany;2021-10-01;Hydro;1.19
+Germany;2021-10-01;Nuclear;5.34
+Germany;2021-10-01;Other Fossil;2.11
+Germany;2021-10-01;Solar;3.4
+Germany;2021-10-01;Wind;13.02
+Germany;2021-10-01;Wind and solar;16.42
+Germany;2021-11-01;Bioenergy;3.55
+Germany;2021-11-01;Clean;21.6
+Germany;2021-11-01;Coal;16.47
+Germany;2021-11-01;Fossil;27.52
+Germany;2021-11-01;Gas;8.74
+Germany;2021-11-01;Hydro;1.09
+Germany;2021-11-01;Nuclear;5.56
+Germany;2021-11-01;Other Fossil;2.31
+Germany;2021-11-01;Solar;1.17
+Germany;2021-11-01;Wind;10.23
+Germany;2021-11-01;Wind and solar;11.4
+Germany;2021-12-01;Bioenergy;3.74
+Germany;2021-12-01;Clean;23.72
+Germany;2021-12-01;Coal;15.91
+Germany;2021-12-01;Fossil;26.71
+Germany;2021-12-01;Gas;8.54
+Germany;2021-12-01;Hydro;1.49
+Germany;2021-12-01;Nuclear;5.66
+Germany;2021-12-01;Other Fossil;2.26
+Germany;2021-12-01;Solar;0.75
+Germany;2021-12-01;Wind;12.08
+Germany;2021-12-01;Wind and solar;12.83
+Germany;2022-01-01;Bioenergy;3.97
+Germany;2022-01-01;Clean;25.38
+Germany;2022-01-01;Coal;15.73
+Germany;2022-01-01;Fossil;27.04
+Germany;2022-01-01;Gas;8.89
+Germany;2022-01-01;Hydro;1.56
+Germany;2022-01-01;Nuclear;2.9
+Germany;2022-01-01;Other Fossil;2.42
+Germany;2022-01-01;Solar;1.27
+Germany;2022-01-01;Wind;15.68
+Germany;2022-01-01;Wind and solar;16.95
+Germany;2022-02-01;Bioenergy;3.59
+Germany;2022-02-01;Clean;30.6
+Germany;2022-02-01;Coal;11.39
+Germany;2022-02-01;Fossil;20.34
+Germany;2022-02-01;Gas;6.72
+Germany;2022-02-01;Hydro;1.55
+Germany;2022-02-01;Nuclear;2.69
+Germany;2022-02-01;Other Fossil;2.23
+Germany;2022-02-01;Solar;2.64
+Germany;2022-02-01;Wind;20.13
+Germany;2022-02-01;Wind and solar;22.77
+Germany;2022-03-01;Bioenergy;3.85
+Germany;2022-03-01;Clean;21.78
+Germany;2022-03-01;Coal;16.8
+Germany;2022-03-01;Fossil;27.5
+Germany;2022-03-01;Gas;8.23
+Germany;2022-03-01;Hydro;1.34
+Germany;2022-03-01;Nuclear;2.96
+Germany;2022-03-01;Other Fossil;2.47
+Germany;2022-03-01;Solar;5.78
+Germany;2022-03-01;Wind;7.85
+Germany;2022-03-01;Wind and solar;13.63
+Germany;2022-04-01;Bioenergy;3.7
+Germany;2022-04-01;Clean;25.41
+Germany;2022-04-01;Coal;12.76
+Germany;2022-04-01;Fossil;20.99
+Germany;2022-04-01;Gas;6.06
+Germany;2022-04-01;Hydro;1.56
+Germany;2022-04-01;Nuclear;2.86
+Germany;2022-04-01;Other Fossil;2.17
+Germany;2022-04-01;Solar;6.17
+Germany;2022-04-01;Wind;11.12
+Germany;2022-04-01;Wind and solar;17.29
+Germany;2022-05-01;Bioenergy;3.73
+Germany;2022-05-01;Clean;23.3
+Germany;2022-05-01;Coal;11.7
+Germany;2022-05-01;Fossil;19.56
+Germany;2022-05-01;Gas;5.77
+Germany;2022-05-01;Hydro;1.71
+Germany;2022-05-01;Nuclear;2.25
+Germany;2022-05-01;Other Fossil;2.09
+Germany;2022-05-01;Solar;7.93
+Germany;2022-05-01;Wind;7.68
+Germany;2022-05-01;Wind and solar;15.61
+Germany;2022-06-01;Bioenergy;3.41
+Germany;2022-06-01;Clean;21.02
+Germany;2022-06-01;Coal;12.45
+Germany;2022-06-01;Fossil;19.92
+Germany;2022-06-01;Gas;5.49
+Germany;2022-06-01;Hydro;1.66
+Germany;2022-06-01;Nuclear;2.16
+Germany;2022-06-01;Other Fossil;1.98
+Germany;2022-06-01;Solar;8.32
+Germany;2022-06-01;Wind;5.47
+Germany;2022-06-01;Wind and solar;13.79
+Germany;2022-07-01;Bioenergy;3.47
+Germany;2022-07-01;Clean;23.01
+Germany;2022-07-01;Coal;12.99
+Germany;2022-07-01;Fossil;20.11
+Germany;2022-07-01;Gas;5.11
+Germany;2022-07-01;Hydro;1.3
+Germany;2022-07-01;Nuclear;2.92
+Germany;2022-07-01;Other Fossil;2.01
+Germany;2022-07-01;Solar;8.22
+Germany;2022-07-01;Wind;7.1
+Germany;2022-07-01;Wind and solar;15.32
+Germany;2022-08-01;Bioenergy;3.46
+Germany;2022-08-01;Clean;19.66
+Germany;2022-08-01;Coal;14.34
+Germany;2022-08-01;Fossil;21.66
+Germany;2022-08-01;Gas;5.39
+Germany;2022-08-01;Hydro;1.15
+Germany;2022-08-01;Nuclear;2.94
+Germany;2022-08-01;Other Fossil;1.93
+Germany;2022-08-01;Solar;7.54
+Germany;2022-08-01;Wind;4.57
+Germany;2022-08-01;Wind and solar;12.11
+Germany;2022-09-01;Bioenergy;3.42
+Germany;2022-09-01;Clean;20.38
+Germany;2022-09-01;Coal;14.65
+Germany;2022-09-01;Fossil;21.52
+Germany;2022-09-01;Gas;4.92
+Germany;2022-09-01;Hydro;1.32
+Germany;2022-09-01;Nuclear;2.89
+Germany;2022-09-01;Other Fossil;1.95
+Germany;2022-09-01;Solar;4.89
+Germany;2022-09-01;Wind;7.86
+Germany;2022-09-01;Wind and solar;12.75
+Germany;2022-10-01;Bioenergy;3.71
+Germany;2022-10-01;Clean;22.45
+Germany;2022-10-01;Coal;12.42
+Germany;2022-10-01;Fossil;20.08
+Germany;2022-10-01;Gas;5.68
+Germany;2022-10-01;Hydro;1.6
+Germany;2022-10-01;Nuclear;2.66
+Germany;2022-10-01;Other Fossil;1.98
+Germany;2022-10-01;Solar;3.72
+Germany;2022-10-01;Wind;10.76
+Germany;2022-10-01;Wind and solar;14.48
+Germany;2022-11-01;Bioenergy;3.71
+Germany;2022-11-01;Clean;22.29
+Germany;2022-11-01;Coal;14.88
+Germany;2022-11-01;Fossil;23.08
+Germany;2022-11-01;Gas;6.15
+Germany;2022-11-01;Hydro;1.32
+Germany;2022-11-01;Nuclear;2.83
+Germany;2022-11-01;Other Fossil;2.05
+Germany;2022-11-01;Solar;1.86
+Germany;2022-11-01;Wind;12.57
+Germany;2022-11-01;Wind and solar;14.43
+Germany;2022-12-01;Bioenergy;3.91
+Germany;2022-12-01;Clean;20.5
+Germany;2022-12-01;Coal;15.9
+Germany;2022-12-01;Fossil;26.04
+Germany;2022-12-01;Gas;8.04
+Germany;2022-12-01;Hydro;1.41
+Germany;2022-12-01;Nuclear;2.71
+Germany;2022-12-01;Other Fossil;2.1
+Germany;2022-12-01;Solar;0.78
+Germany;2022-12-01;Wind;11.69
+Germany;2022-12-01;Wind and solar;12.47
+Germany;2023-01-01;Bioenergy;3.75
+Germany;2023-01-01;Clean;25.01
+Germany;2023-01-01;Coal;14.58
+Germany;2023-01-01;Fossil;24.41
+Germany;2023-01-01;Gas;7.65
+Germany;2023-01-01;Hydro;1.52
+Germany;2023-01-01;Nuclear;1.74
+Germany;2023-01-01;Other Fossil;2.18
+Germany;2023-01-01;Solar;1.47
+Germany;2023-01-01;Wind;16.53
+Germany;2023-01-01;Wind and solar;18
+Germany;2023-02-01;Bioenergy;3.4
+Germany;2023-02-01;Clean;20.78
+Germany;2023-02-01;Coal;14.44
+Germany;2023-02-01;Fossil;24.23
+Germany;2023-02-01;Gas;7.75
+Germany;2023-02-01;Hydro;1.21
+Germany;2023-02-01;Nuclear;1.92
+Germany;2023-02-01;Other Fossil;2.04
+Germany;2023-02-01;Solar;2.74
+Germany;2023-02-01;Wind;11.51
+Germany;2023-02-01;Wind and solar;14.25
+Germany;2023-03-01;Bioenergy;3.64
+Germany;2023-03-01;Clean;25.26
+Germany;2023-03-01;Coal;11.84
+Germany;2023-03-01;Fossil;21.34
+Germany;2023-03-01;Gas;7.26
+Germany;2023-03-01;Hydro;1.58
+Germany;2023-03-01;Nuclear;2.17
+Germany;2023-03-01;Other Fossil;2.24
+Germany;2023-03-01;Solar;4.11
+Germany;2023-03-01;Wind;13.76
+Germany;2023-03-01;Wind and solar;17.87
+Germany;2023-04-01;Bioenergy;3.5
+Germany;2023-04-01;Clean;21.75
+Germany;2023-04-01;Coal;10.29
+Germany;2023-04-01;Fossil;18.35
+Germany;2023-04-01;Gas;6.1
+Germany;2023-04-01;Hydro;1.87
+Germany;2023-04-01;Nuclear;0.99
+Germany;2023-04-01;Other Fossil;1.96
+Germany;2023-04-01;Solar;5.78
+Germany;2023-04-01;Wind;9.61
+Germany;2023-04-01;Wind and solar;15.39
+Germany;2023-05-01;Bioenergy;3.54
+Germany;2023-05-01;Clean;21.67
+Germany;2023-05-01;Coal;7.22
+Germany;2023-05-01;Fossil;14.55
+Germany;2023-05-01;Gas;5.33
+Germany;2023-05-01;Hydro;2.14
+Germany;2023-05-01;Nuclear;0
+Germany;2023-05-01;Other Fossil;2
+Germany;2023-05-01;Solar;8.13
+Germany;2023-05-01;Wind;7.86
+Germany;2023-05-01;Wind and solar;15.99
+Germany;2023-06-01;Bioenergy;3.24
+Germany;2023-06-01;Clean;19.36
+Germany;2023-06-01;Coal;7.42
+Germany;2023-06-01;Fossil;14.52
+Germany;2023-06-01;Gas;5.33
+Germany;2023-06-01;Hydro;1.46
+Germany;2023-06-01;Nuclear;0
+Germany;2023-06-01;Other Fossil;1.77
+Germany;2023-06-01;Solar;8.91
+Germany;2023-06-01;Wind;5.75
+Germany;2023-06-01;Wind and solar;14.66
+Germany;2023-07-01;Bioenergy;3.31
+Germany;2023-07-01;Clean;22.19
+Germany;2023-07-01;Coal;6.28
+Germany;2023-07-01;Fossil;13.34
+Germany;2023-07-01;Gas;5.13
+Germany;2023-07-01;Hydro;1.36
+Germany;2023-07-01;Nuclear;0
+Germany;2023-07-01;Other Fossil;1.93
+Germany;2023-07-01;Solar;7.93
+Germany;2023-07-01;Wind;9.59
+Germany;2023-07-01;Wind and solar;17.52
+Germany;2023-08-01;Bioenergy;3.3
+Germany;2023-08-01;Clean;18.54
+Germany;2023-08-01;Coal;7.72
+Germany;2023-08-01;Fossil;15.06
+Germany;2023-08-01;Gas;5.42
+Germany;2023-08-01;Hydro;1.74
+Germany;2023-08-01;Nuclear;0
+Germany;2023-08-01;Other Fossil;1.92
+Germany;2023-08-01;Solar;6.85
+Germany;2023-08-01;Wind;6.65
+Germany;2023-08-01;Wind and solar;13.5
+Germany;2023-09-01;Bioenergy;3.28
+Germany;2023-09-01;Clean;17.89
+Germany;2023-09-01;Coal;9.02
+Germany;2023-09-01;Fossil;15.99
+Germany;2023-09-01;Gas;5.04
+Germany;2023-09-01;Hydro;1.42
+Germany;2023-09-01;Nuclear;0
+Germany;2023-09-01;Other Fossil;1.93
+Germany;2023-09-01;Solar;6.85
+Germany;2023-09-01;Wind;6.34
+Germany;2023-09-01;Wind and solar;13.19
+Germany;2023-10-01;Bioenergy;3.56
+Germany;2023-10-01;Clean;22
+Germany;2023-10-01;Coal;10.05
+Germany;2023-10-01;Fossil;18.05
+Germany;2023-10-01;Gas;5.91
+Germany;2023-10-01;Hydro;1.03
+Germany;2023-10-01;Nuclear;0
+Germany;2023-10-01;Other Fossil;2.09
+Germany;2023-10-01;Solar;3.82
+Germany;2023-10-01;Wind;13.59
+Germany;2023-10-01;Wind and solar;17.41
+Germany;2023-11-01;Bioenergy;3.56
+Germany;2023-11-01;Clean;23.27
+Germany;2023-11-01;Coal;11.49
+Germany;2023-11-01;Fossil;20.42
+Germany;2023-11-01;Gas;6.88
+Germany;2023-11-01;Hydro;1.83
+Germany;2023-11-01;Nuclear;0
+Germany;2023-11-01;Other Fossil;2.05
+Germany;2023-11-01;Solar;2.06
+Germany;2023-11-01;Wind;15.82
+Germany;2023-11-01;Wind and solar;17.88
+Germany;2023-12-01;Bioenergy;3.75
+Germany;2023-12-01;Clean;25.42
+Germany;2023-12-01;Coal;11.12
+Germany;2023-12-01;Fossil;20.24
+Germany;2023-12-01;Gas;7.26
+Germany;2023-12-01;Hydro;2.16
+Germany;2023-12-01;Nuclear;0
+Germany;2023-12-01;Other Fossil;1.86
+Germany;2023-12-01;Solar;1.37
+Germany;2023-12-01;Wind;18.14
+Germany;2023-12-01;Wind and solar;19.51
+Germany;2024-01-01;Bioenergy;3.79
+Germany;2024-01-01;Clean;25.39
+Germany;2024-01-01;Coal;10.99
+Germany;2024-01-01;Fossil;21.88
+Germany;2024-01-01;Gas;8.79
+Germany;2024-01-01;Hydro;1.84
+Germany;2024-01-01;Nuclear;0
+Germany;2024-01-01;Other Fossil;2.1
+Germany;2024-01-01;Solar;1.97
+Germany;2024-01-01;Wind;17.79
+Germany;2024-01-01;Wind and solar;19.76
+Germany;2024-02-01;Bioenergy;3.54
+Germany;2024-02-01;Clean;23.98
+Germany;2024-02-01;Coal;8.89
+Germany;2024-02-01;Fossil;17.9
+Germany;2024-02-01;Gas;7.15
+Germany;2024-02-01;Hydro;1.66
+Germany;2024-02-01;Nuclear;0
+Germany;2024-02-01;Other Fossil;1.86
+Germany;2024-02-01;Solar;2.75
+Germany;2024-02-01;Wind;16.03
+Germany;2024-02-01;Wind and solar;18.78
+Germany;2024-03-01;Bioenergy;3.83
+Germany;2024-03-01;Clean;22.02
+Germany;2024-03-01;Coal;8.87
+Germany;2024-03-01;Fossil;17.85
+Germany;2024-03-01;Gas;7.24
+Germany;2024-03-01;Hydro;1.69
+Germany;2024-03-01;Nuclear;0
+Germany;2024-03-01;Other Fossil;1.74
+Germany;2024-03-01;Solar;5.11
+Germany;2024-03-01;Wind;11.39
+Germany;2024-03-01;Wind and solar;16.5
+Germany;2024-04-01;Bioenergy;3.58
+Germany;2024-04-01;Clean;23.21
+Germany;2024-04-01;Coal;5.93
+Germany;2024-04-01;Fossil;13.85
+Germany;2024-04-01;Gas;6.37
+Germany;2024-04-01;Hydro;1.84
+Germany;2024-04-01;Nuclear;0
+Germany;2024-04-01;Other Fossil;1.55
+Germany;2024-04-01;Solar;6.68
+Germany;2024-04-01;Wind;11.11
+Germany;2024-04-01;Wind and solar;17.79
+Germany;2024-05-01;Bioenergy;3.6
+Germany;2024-05-01;Clean;22.35
+Germany;2024-05-01;Coal;6.02
+Germany;2024-05-01;Fossil;13.47
+Germany;2024-05-01;Gas;5.89
+Germany;2024-05-01;Hydro;2.26
+Germany;2024-05-01;Nuclear;0
+Germany;2024-05-01;Other Fossil;1.56
+Germany;2024-05-01;Solar;9.14
+Germany;2024-05-01;Wind;7.35
+Germany;2024-05-01;Wind and solar;16.49
+Germany;2024-06-01;Bioenergy;3.35
+Germany;2024-06-01;Clean;21.85
+Germany;2024-06-01;Coal;6.6
+Germany;2024-06-01;Fossil;13.35
+Germany;2024-06-01;Gas;5.41
+Germany;2024-06-01;Hydro;2.21
+Germany;2024-06-01;Nuclear;0
+Germany;2024-06-01;Other Fossil;1.34
+Germany;2024-06-01;Solar;9.43
+Germany;2024-06-01;Wind;6.86
+Germany;2024-06-01;Wind and solar;16.29
+Germany;2024-07-01;Bioenergy;3.38
+Germany;2024-07-01;Clean;22.98
+Germany;2024-07-01;Coal;6.76
+Germany;2024-07-01;Fossil;13.52
+Germany;2024-07-01;Gas;5.14
+Germany;2024-07-01;Hydro;2.48
+Germany;2024-07-01;Nuclear;0
+Germany;2024-07-01;Other Fossil;1.62
+Germany;2024-07-01;Solar;10.27
+Germany;2024-07-01;Wind;6.85
+Germany;2024-07-01;Wind and solar;17.12
+Germany;2024-08-01;Bioenergy;3.34
+Germany;2024-08-01;Clean;21.43
+Germany;2024-08-01;Coal;7.3
+Germany;2024-08-01;Fossil;14.27
+Germany;2024-08-01;Gas;5.31
+Germany;2024-08-01;Hydro;2.07
+Germany;2024-08-01;Nuclear;0
+Germany;2024-08-01;Other Fossil;1.66
+Germany;2024-08-01;Solar;9.74
+Germany;2024-08-01;Wind;6.28
+Germany;2024-08-01;Wind and solar;16.02
+Germany;2024-09-01;Bioenergy;3.24
+Germany;2024-09-01;Clean;22.29
+Germany;2024-09-01;Coal;7.59
+Germany;2024-09-01;Fossil;14.24
+Germany;2024-09-01;Gas;4.96
+Germany;2024-09-01;Hydro;1.87
+Germany;2024-09-01;Nuclear;0
+Germany;2024-09-01;Other Fossil;1.69
+Germany;2024-09-01;Solar;6.99
+Germany;2024-09-01;Wind;10.19
+Germany;2024-09-01;Wind and solar;17.18
